@@ -1,0 +1,38 @@
+{
+  "name": "quasar",
+  "version": "0.0.1",
+  "description": "Внутренняя система для заказа обедов",
+  "productName": "IT2.0. Заказ обедов",
+  "cordovaId": "org.cordova.quasar.app",
+  "author": "Денис Осадчий, Дмитрий Завгородний, Сергей Некрасов. (it 2.0)",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "crypto-js": "^3.1.9-1",
+    "jquery": "^3.4.1",
+    "jspdf": "^1.5.3",
+    "vue-google-charts": "^0.3.2",
+    "vue-material-year-calendar": "^1.2.0",
+    "vue-moment": "^4.0.0"
+  },
+  "devDependencies": {
+    "quasar-cli": "^0.17.0",
+    "strip-ansi": "=3.0.1"
+  },
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 10"
+  ],
+  "resolutions": {
+    "ajv": "6.8.1"
+  }
+}
