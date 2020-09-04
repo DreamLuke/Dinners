@@ -16,7 +16,7 @@
     "jspdf": "^1.5.3",
     "vue-google-charts": "^0.3.2",
     "vue-material-year-calendar": "^1.2.0",
-    "vue-moment": "^4.0.0"
+    "vue-moment": "^4.1.0"
   },
   "devDependencies": {
     "quasar-cli": "^0.17.0",
